@@ -1,35 +1,50 @@
-Hi, I'm Brandon
+󱠡  Brandon (DeadPacket)
 
 Linux | Cybersecurity | Infrastructure Engineering
-Focused on secure system design, reproducibility, and low-level debugging
+Cybersecurity-focused Linux enthusiast building secure, reproducible systems with NixOS.
 
-## Featured Project
-NixOS Cyberpunk Login System (greetd + tuigreet)
+##  Connect
+  - https://github.com/DeadPacket
+  - https://www.linkedin.com/in/brandon-napper-95410b2b4
 
-A minimal, security-focused login system built on NixOS that replaces traditional display managers with a lightweight, terminal-based authentication flow.
+## Focus Areas
+  - System Hardening (Linux / NixOS)
+  - Attack Surface Reduction
+  - Authentication & Display Managers (greetd, SDDM)
+  - Infrastructure & Configuration Management
+  - Networking Fundamentals
 
-Key Highlights:
+## Featured Projects
+  
+  ### 󰍂 NixOS greetd Cyberpunk Login System
+  Minimal, secure login system using greetd + tuigreet
   - Replaced SDDM with greetd + tuigreet
   - Reduced attack surface by eliminating heavy GUI login stacks
   - Built a fully declarative, reproducible system
-  - Designed a custom syberpunk-themed terminal login interface
+  - Designed a custom cyberpunk-themed terminal login interface
+  
+  󰋇 https://github.com/DeadPacket/nixos-greetd-cyberpunk 󰩔
 
-## What I'm Learning / Building
-  - Secure Linux system design
-  - NixOS and declarative infrastructure
-  - Authentication flows and display managers
-  - System hardening and attack surface reduction
+  ### 󰍂 NixOS SDDM Custom Theme
+  Custom graphical login manager theme built with QML
+  - QML-based theming
+  - Debugging + system integration
+  - UI/UX customization
+
+  󰋇 https://github.com/DeadPacket/nixos-sddm-cyberpunk 󰩔 
+
+## What I'm Learning
+  - Secure system design
+  - Linux internals
+  - Networked environments
+  - Reproducible infrastructure
 
 ## Technologies
   - NixOS
   - Linux (i3, systemd)
-  - Networking fundamentals
   - Git / GitHub
 
 ## Goals
   - Transition into cybersecurity / infrastructure engineering
   - Build secure, reproducible Linux systems
   - Develop real-world, portfolio-grade projects
-
-## Contact
-  - GitHub: https://github.com/DeadPacket
