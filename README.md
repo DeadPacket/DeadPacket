@@ -1,7 +1,7 @@
 Brandon (DeadPacket)
 
 Linux | Cybersecurity | Infrastructure Engineering
-Cybersecurity-focused Linux enthusiast building secure, reproducible systems with NixOS.
+Building secure, minimal Linux Systems with a focus on authentication, reproducibility and attack suface reduction.
 
 ## Connect
   - https://github.com/DeadPacket
@@ -9,7 +9,6 @@ Cybersecurity-focused Linux enthusiast building secure, reproducible systems wit
 
 ## Focus Areas
   - System Hardening (Linux / NixOS)
-  - Attack Surface Reduction
   - Authentication & Display Managers (greetd, SDDM)
   - Infrastructure & Configuration Management
   - Networking Fundamentals
@@ -19,7 +18,7 @@ Cybersecurity-focused Linux enthusiast building secure, reproducible systems wit
   ### NixOS greetd Cyberpunk Login System
   Minimal, secure login system using greetd + tuigreet
   - Replaced SDDM with greetd + tuigreet
-  - Reduced attack surface by eliminating heavy GUI login stacks
+  - Reduced attack surface by removing unnecessary GUI authentication layers commonly targeted in desktop environments
   - Built a fully declarative, reproducible system
   - Designed a custom cyberpunk-themed terminal login interface
   
