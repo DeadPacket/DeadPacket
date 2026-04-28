@@ -1,7 +1,7 @@
 Brandon (DeadPacket)
 
 Linux | Cybersecurity | Infrastructure Engineering
-Building secure, minimal Linux Systems with a focus on authentication, reproducibility and attack suface reduction.
+  - Building secure, minimal Linux Systems with a focus on authentication, reproducibility and attack suface reduction.
 
 ## Connect
   - https://github.com/DeadPacket
